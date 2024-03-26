@@ -11,6 +11,8 @@ Requires Java 16 or 17
 ---
 
 ### Supported Game Versions
+- 1.20.4
+- 1.20.2
 - 1.19.2
 - 1.19.1
 - 1.19
